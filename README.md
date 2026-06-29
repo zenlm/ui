@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="ui" width="880"></p>
+
 # @zenlm/ui
 
 React components for the Zen LM model library — model cards, comparison tables, and browsable catalog.
